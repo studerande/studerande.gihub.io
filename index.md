@@ -1,4 +1,8 @@
-#hello world
+---
+title: Hello world
+layout: default
+---
 
-detta är en hemsida 
+Hello world
 
+Webbplats {{site.tile}}
